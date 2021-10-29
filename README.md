@@ -1,3 +1,3 @@
 # lvt-spire-reader
 
-Reader for Spire soil moisture in LVT
+Reader for Spire soil moisture data in LVT
